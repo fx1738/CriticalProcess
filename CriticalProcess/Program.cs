@@ -10,6 +10,7 @@ namespace CriticalProcess
     {
         static void Main(string[] args)
         {
+            //
         }
     }
 }
