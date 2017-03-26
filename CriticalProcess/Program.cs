@@ -10,7 +10,15 @@ namespace CriticalProcess
     {
         static void Main(string[] args)
         {
-            //
+            // Load
+            // Create Windows Shutdown handler
+
+
+            // Do your stuff
+            Console.WriteLine("Nice Process");
+
+
+            // Unload
         }
     }
 }
