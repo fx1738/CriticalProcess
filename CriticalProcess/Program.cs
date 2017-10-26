@@ -17,7 +17,7 @@ namespace CriticalProcess
             Process.EnterDebugMode();
             NtSet(1, 0x1D);
 
-            Console.WriteLine("Nice Process");
+            Console.WriteLine("Nice Process!");
             Console.ReadLine();
         }
 
