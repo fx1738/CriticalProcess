@@ -22,7 +22,7 @@ namespace CriticalProcess
             Process.EnterDebugMode();
             NtSet(1, 0x1D);
             // do your stuff here
-            Console.WriteLine("Nice ProaaaceswaWRRQFds");
+            Console.WriteLine("Nice ProaaaceswaWRRQFds");//suh
             Console.ReadLine();
 
             // end critical mode
